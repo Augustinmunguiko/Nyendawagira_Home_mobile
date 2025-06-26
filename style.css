@@ -321,6 +321,7 @@
   text-align: center;
   transition: transform 0.3s ease;
   animation: fadeInUp 1s ease forwards;
+  
 }
 .contact-box:hover{
   transform: translateY(-5px);
